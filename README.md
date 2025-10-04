@@ -13,7 +13,16 @@
 🔁 Поучаствовать в реализации крупного проекта на позиции Аналитика/разработчика.
 🚀 Освоить новую профессию (backend, аналитик, DevOps).
 💬 Как связаться со мной:
-
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/Nerzul70)
-Стэк
-
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:forester379@gmail.com)
+💻 Технологии:
+[Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B5C?logo=mysql&logoColor=white)  
+![1C](https://img.shields.io/badge/1C-000000?logo=visual-studio&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
+🛠️ Инструменты:
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
